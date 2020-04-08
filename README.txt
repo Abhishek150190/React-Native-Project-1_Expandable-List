@@ -13,8 +13,6 @@ I have used static data that I am using in my list component which on clicking s
 I have also added the app icon.
 
 
-![](Expandable_list.gif)
-
 
 Thanks
 
